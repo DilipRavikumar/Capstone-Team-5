@@ -1,0 +1,5 @@
+com\trade\FraudResult.class
+com\trade\FraudResultRepository.class
+com\trade\FraudMessageListener.class
+com\trade\FraudController.class
+com\trade\FraudServiceApplication.class
