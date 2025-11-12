@@ -67,6 +67,7 @@ public class TradeService {
             entityManager.clear();
             System.out.println("TradeService.processRuleResult - Updated trade " + tradeId + " in DB");
         }
+
         checkAndCombineResults(tradeId);
     }
 
@@ -86,6 +87,7 @@ public class TradeService {
             entityManager.clear();
             System.out.println("TradeService.processFraudResult - Updated trade " + tradeId + " in DB");
         }
+
         checkAndCombineResults(tradeId);
     }
 
