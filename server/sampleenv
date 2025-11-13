@@ -1,0 +1,7 @@
+AWS_ACCESS_KEY_ID=ADD UR KEY//
+AWS_SECRET_ACCESS_KEY=ADD YOUR SECRET KEY//
+AWS_REGION=us-east-2
+AWS_SESSION_TOKEN= ADD YOUR SESSION TOKEN //
+BEDROCK_MODEL_ID=us.amazon.nova-micro-v1:0
+
+//keep the bedrock model and aws_region same
