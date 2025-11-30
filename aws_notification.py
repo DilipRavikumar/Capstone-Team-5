@@ -61,7 +61,6 @@ async def chat_loop():
     agent = await build_agent()
 
     print("MCP + Amazon Nova Pro agent is ready.")
-    print("Type your questions (e.g. 'list available pets', 'get the pet with id 1').")
     print("Type 'exit' or 'quit' to stop.\n")
 
     while True:
